@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+auth.json
+playwright_ig_cookies.json
+login_debug/
+output/
+.DS_Store
